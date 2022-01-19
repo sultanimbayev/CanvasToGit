@@ -11,7 +11,7 @@ Screen1 As screen:
         Y: =208
         ZIndex: =1
 
-    Label1 As label:
+    Label2 As label:
         Align: =Center
         Height: =77
         Text: |-
