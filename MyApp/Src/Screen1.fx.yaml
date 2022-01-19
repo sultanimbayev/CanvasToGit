@@ -1,0 +1,13 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Center
+        Height: =77
+        Text: |-
+            ="Hello Almas
+            "
+        Width: =282
+        X: =540
+        Y: =316
+        ZIndex: =1
+
