@@ -11,10 +11,13 @@ Screen1 As screen:
         Y: =208
         ZIndex: =1
 
-    TextInput1 As text:
+    Label1 As label:
         Align: =Center
-        Default: ="Text input"
+        Height: =77
+        Text: |-
+            ="Hello Almas
+            "
+        Width: =282
         X: =517
         Y: =331
-        ZIndex: =2
-
+        ZIndex: =1
