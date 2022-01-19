@@ -7,7 +7,14 @@ Screen1 As screen:
             ="Hello Almas
             "
         Width: =282
-        X: =540
-        Y: =316
+        X: =536
+        Y: =208
         ZIndex: =1
+
+    TextInput1 As text:
+        Align: =Center
+        Default: ="Text input"
+        X: =517
+        Y: =331
+        ZIndex: =2
 

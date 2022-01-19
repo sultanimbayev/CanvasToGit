@@ -3,10 +3,11 @@
   "ControlUniqueIds": {
     "App": 1,
     "Label1": 4,
-    "Screen1": 3
+    "Screen1": 3,
+    "TextInput1": 5
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/19/2022 07:48:28",
+  "HeaderLastSavedDateTimeUTC": "01/19/2022 07:54:19",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -16,12 +17,14 @@
   "OrderGroupControls": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "label": 0
+    "label": 0,
+    "text": 1
   },
   "PublishOrderIndices": {
     "App": 0,
     "Label1": 0,
-    "Screen1": 0
+    "Screen1": 0,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
